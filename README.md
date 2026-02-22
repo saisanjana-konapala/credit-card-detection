@@ -91,6 +91,8 @@ Place creditcard.csv in the project folder.
 Run the Python script:
 
 python fraud_detection.py
+
+
 📌 Conclusion
 
 The project demonstrates how machine learning can effectively detect fraudulent transactions. With proper preprocessing and model tuning, fraud detection systems can significantly improve financial security.
